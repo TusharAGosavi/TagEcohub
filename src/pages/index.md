@@ -1,70 +1,69 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Sustainable Living with a Purpose
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Sustainable Living with a Purpose
+subheading: Support eco-friendly initiatives while making mindful choices
 mainpitch:
-  title: Why Kaldi
+  title: Why EcoBrew
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    EcoBrew is the platform for everyone who believes that sustainable living
+    shouldn't just feel good, it should do good too. We source all of our
+    products directly from small-scale eco-friendly producers and ensure part
+    of the profits are reinvested in their communities.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
+  EcoBrew is the ultimate spot for eco-conscious individuals who want to learn
+  about the origin of their products and support the communities that produce them. 
+  We take sustainability seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/eco-products.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We offer a variety of eco-friendly products that are sourced directly
+        from independent producers and cooperatives. We’re proud to offer
+        products made with great care for the environment and local communities.
+        Check our posts or contact us directly for current availability.
+    - image: /img/eco-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        We offer a carefully curated selection of eco-friendly tools and
+        products for every taste and lifestyle. Whether you're just starting
+        your sustainable journey or you're a seasoned eco-warrior, you’ll find
+        something to love in our shop.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Interested in living more sustainably but not sure where to start? Want
+        to reduce your carbon footprint but don’t know how? We're here to help.
+        You can schedule a custom 1-on-1 consultation with our experts to learn
+        anything you want to know about sustainable living. Email us or call the
+        store for details.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We believe that sustainable living has the power to bring people
+        together. That’s why we decided to turn a corner of our platform into a
+        cozy community space where you can connect with fellow eco-enthusiasts
+        and learn about sustainable practices. All of the artwork on display
+        there is for sale, with the full price going to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    EcoBrew is the ultimate spot for eco-conscious individuals who want to learn
+    about the origin of their products and support the communities that produce them. 
+    We take sustainability seriously and we’re glad to pass that knowledge to
+    anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: Sustainable Living with No Compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    We hold our products to the highest standards from production to delivery.
+    That’s why we’re meticulous and transparent about each step of the journey.
+    We personally visit each producer to make sure the conditions are optimal
+    for the environment, workers, and the local community.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up of an eco-friendly product display
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: A green product on a wooden table
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Sustainable products on display
     image: /img/products-grid1.jpg
 ---
