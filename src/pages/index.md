@@ -5,14 +5,14 @@ image: /img/home-jumbotron.jpg
 heading: Sustainable Living with a Purpose
 subheading: Support eco-friendly initiatives while making mindful choices
 mainpitch:
-  title: Why EcoBrew
+  title: Why EcoHub
   description: >
-    EcoBrew is the platform for everyone who believes that sustainable living
+    EcoHub is the platform for everyone who believes that sustainable living
     shouldn't just feel good, it should do good too. We source all of our
     products directly from small-scale eco-friendly producers and ensure part
     of the profits are reinvested in their communities.
 description: >-
-  EcoBrew is the ultimate spot for eco-conscious individuals who want to learn
+  EcoHub is the ultimate spot for eco-conscious individuals who want to learn
   about the origin of their products and support the communities that produce them. 
   We take sustainability seriously and we’re glad to pass that knowledge to
   anyone.
@@ -46,7 +46,7 @@ intro:
         there is for sale, with the full price going to the artist.
   heading: What we offer
   description: >
-    EcoBrew is the ultimate spot for eco-conscious individuals who want to learn
+    EcoHub is the ultimate spot for eco-conscious individuals who want to learn
     about the origin of their products and support the communities that produce them. 
     We take sustainability seriously and we’re glad to pass that knowledge to
     anyone.
