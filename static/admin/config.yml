@@ -2,8 +2,7 @@ backend:
   name: github
   branch: main
   repo: TusharAGosavi/TagEcohub
-  base_url: https://api.netlify.com
-  auth_endpoint: /auth
+
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
     update: "Update {{collection}} “{{slug}}”"
