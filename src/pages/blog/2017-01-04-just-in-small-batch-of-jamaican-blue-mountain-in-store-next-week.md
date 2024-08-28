@@ -10,7 +10,7 @@ description: Music is more than just a form of entertainment; it is a universal
   between music and the environment is also a fascinating area of exploration,
   where natural sounds and melodies blend to create harmony, fostering a deeper
   appreciation for the world around us.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/music.jpg
 tags:
   - music
