@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import logo from "../img/ecohub.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -66,7 +66,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/decaporg/gatsby-plugin-decap-cms"
+              href="https://github.com/TusharAGosavi/TagEcohub.git"
               target="_blank"
               rel="noopener noreferrer"
             >

@@ -1,19 +1,19 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Our Values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Sustainable Ecosystems
+Our mission at Ecohub is to foster sustainable ecosystems by integrating innovative practices that enhance environmental health. We believe in creating a harmonious balance between human activity and nature, ensuring that our initiatives contribute positively to the ecosystem.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Local Sourcing
+Ecohub champions the importance of local sourcing. By supporting local suppliers and artisans, we help reduce the carbon footprint associated with transportation while promoting regional economic growth. Our commitment to local sourcing also ensures the freshness and quality of the products we offer.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Eco-friendly Practices
+We are dedicated to implementing eco-friendly practices in every aspect of our operations. From using renewable energy sources to minimizing waste through recycling and composting, our goal is to reduce our environmental impact and promote sustainability.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Community Empowerment
+Empowering communities is at the heart of Ecohub’s mission. We work closely with local organizations to support education, health, and environmental initiatives. By reinvesting a portion of our profits into community projects, we aim to create lasting positive change.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Transparent Impact
+Transparency is key to building trust and accountability. We regularly share updates on our environmental impact and community contributions. Our goal is to provide clear and honest information about how our practices are making a difference and to engage our stakeholders in our sustainability journey.
