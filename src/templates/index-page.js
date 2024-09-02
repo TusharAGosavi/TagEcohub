@@ -1,8 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
-import { getImage } from "gatsby-plugin-image";
-
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
@@ -18,7 +16,8 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => {
-  const heroImage = getImage(image) || image;
+  // Treat `image` as a URL or path
+  const heroImage = image;
 
   return (
     <div>
@@ -75,7 +74,7 @@ export const IndexPageTemplate = ({
 };
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  image: PropTypes.string, // Changed from PropTypes.oneOfType
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
@@ -119,11 +118,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
-          }
-        }
+        image
         heading
         subheading
         mainpitch {
@@ -133,11 +128,7 @@ export const pageQuery = graphql`
         description
         intro {
           blurbs {
-            image {
-              childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
-              }
-            }
+            image
             text
           }
           heading
