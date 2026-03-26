@@ -49,11 +49,16 @@ export const ProductPageTemplate = ({
                     <p>{main.description}</p>
                   </div>
                 </div>
-                {fullWidthImage && (
+                {fullWidthImage ? (
                   <div className="column is-10 is-offset-1">
-                    <PreviewCompatibleImage imageInfo={{ image: fullWidthImage }} />
+                    <PreviewCompatibleImage
+                        imageInfo={{
+                          image: fullWidthImage,
+                            alt: "Full Image",
+                        }}
+                     />
                   </div>
-                )}
+                ) : null}
                 <Pricing pricing={pricing} />
                 <Testimonials testimonials={testimonials} />
               </div>
@@ -144,10 +149,7 @@ export const pageQuery = graphql`
           heading
           plans {
             description
-            items {
-              plan
-              price
-            }
+            items
           }
         }
       }
